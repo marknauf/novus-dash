@@ -4,10 +4,10 @@
   "private": true,
   "description": "Novus",
   "author": "Mark Naufel",
-  "homepage": "https://github.com/marknauf/novus-dash",
+  "homepage": "https://marknauf.github.io/novus-dash",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/marknauf/novus-dash"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.15",
