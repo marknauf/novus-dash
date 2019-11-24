@@ -1,0 +1,631 @@
+{
+    "count": 1,
+    "pageInformation": {
+      "offset": 0,
+      "size": 10
+    },
+    "items": [
+      {
+        "pureId": 4231924,
+        "externalId": "1000894822",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "uuid": "54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+        "name": {
+          "firstName": "Andrea",
+          "lastName": "Ketcham"
+        },
+        "profiled": true,
+        "scopusHIndex": 16,
+        "fte": 0,
+        "info": {
+          "createdBy": "root",
+          "createdDate": "2015-05-04T16:45:11.425+0000",
+          "modifiedBy": "sync_user",
+          "modifiedDate": "2019-11-01T19:19:29.348+0000",
+          "portalUrl": "https://asu.pure.elsevier.com/en/persons/54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+          "prettyURLIdentifiers": [
+            "andrea-ketcham",
+            "andrea-morales-ketcham"
+          ]
+        },
+        "visibility": {
+          "key": "FREE",
+          "value": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "Public - No restriction"
+              }
+            ]
+          }
+        },
+        "titles": [
+          {
+            "pureId": 70038560,
+            "externalId": "generic_1000894822",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Professor"
+                }
+              ]
+            },
+            "type": {
+              "pureId": 3434234,
+              "uri": "/dk/atira/pure/person/titles/generic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Title"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ids": [
+          {
+            "pureId": 61792066,
+            "value": {
+              "formatted": false,
+              "value": "13404933900"
+            },
+            "type": {
+              "pureId": 3434256,
+              "uri": "/dk/atira/pure/person/personsources/scopusauthor",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Scopus Author ID"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "profilePhotos": [
+          {
+            "pureId": 96520562,
+            "externalId": "portrait1000894822",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "url": "https://asu.pure.elsevier.com/ws/files/96520562/amorale9%3Fsize=medium",
+            "filename": "amorale9?size=medium",
+            "mimetype": "image/png",
+            "size": 133379,
+            "type": {
+              "pureId": 3434269,
+              "uri": "/dk/atira/pure/person/personfiles/portrait",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Portrait"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "staffOrganisationAssociations": [
+          {
+            "pureId": 50752994,
+            "externalId": "autoid:1000894822-0102007-Associate Professor-academic-2015-05-04",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/54670cbb-51ec-4504-8efd-d28fdb82f0b3"
+              },
+              "externalId": "1000894822",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Andrea Ketcham"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2015-05-04T12:00:00.000+0000",
+              "endDate": "2017-12-21T18:13:39.593+0000"
+            },
+            "isPrimaryAssociation": false,
+            "employmentType": {
+              "pureId": 4754,
+              "uri": "/dk/atira/pure/person/employmenttypes/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "organisationalUnit": {
+              "uuid": "0c50643f-5ba9-45a4-b5f9-e96cd2ba2caf",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/0c50643f-5ba9-45a4-b5f9-e96cd2ba2caf"
+              },
+              "externalId": "B1607",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Marketing"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            },
+            "emails": [
+              {
+                "pureId": 50752995,
+                "externalId": "synchronisedPerson",
+                "externalIdSource": "synchronisedUnifiedPerson",
+                "value": {
+                  "formatted": false,
+                  "value": "acmorales@asu.edu"
+                },
+                "type": {
+                  "pureId": 3434321,
+                  "uri": "/dk/atira/pure/person/personemailtype/email",
+                  "term": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "Email"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 70038558,
+            "externalId": "1000894822_0102007",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/54670cbb-51ec-4504-8efd-d28fdb82f0b3"
+              },
+              "externalId": "1000894822",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Andrea Ketcham"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2007-08-26T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:25:48.549+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "0c50643f-5ba9-45a4-b5f9-e96cd2ba2caf",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/0c50643f-5ba9-45a4-b5f9-e96cd2ba2caf"
+              },
+              "externalId": "B1607",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Marketing"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 81151505,
+            "externalId": "1000894822_00000",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/54670cbb-51ec-4504-8efd-d28fdb82f0b3"
+              },
+              "externalId": "1000894822",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Andrea Ketcham"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2018-10-25T12:00:00.000+0000",
+              "endDate": "2018-10-26T02:30:01.593+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "1557de9d-5962-4988-9aab-2777c887cad5",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/1557de9d-5962-4988-9aab-2777c887cad5"
+              },
+              "externalId": "ASU",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Arizona State University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "NA"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 96506287,
+            "externalId": "1000894822_B1607",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "person": {
+              "uuid": "54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/54670cbb-51ec-4504-8efd-d28fdb82f0b3"
+              },
+              "externalId": "1000894822",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Andrea Ketcham"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2009-10-28T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": true,
+            "organisationalUnit": {
+              "uuid": "0c50643f-5ba9-45a4-b5f9-e96cd2ba2caf",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/0c50643f-5ba9-45a4-b5f9-e96cd2ba2caf"
+              },
+              "externalId": "B1607",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Marketing"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 112522052,
+            "externalId": "1000894822_ASU",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "54670cbb-51ec-4504-8efd-d28fdb82f0b3",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/54670cbb-51ec-4504-8efd-d28fdb82f0b3"
+              },
+              "externalId": "1000894822",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Andrea Ketcham"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2019-09-17T12:00:00.000+0000",
+              "endDate": "2019-11-01T19:19:28.479+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "1557de9d-5962-4988-9aab-2777c887cad5",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/1557de9d-5962-4988-9aab-2777c887cad5"
+              },
+              "externalId": "ASU",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Arizona State University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "NA"
+                }
+              ]
+            }
+          }
+        ],
+        "educations": [
+          {
+            "pureId": 5297412,
+            "externalId": "Education_723",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 2002
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "PHD"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5297413,
+                "externalOrganisationalUnit": {
+                  "uuid": "c22452f7-9f8a-4f0b-95e6-bc466a56af50",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/c22452f7-9f8a-4f0b-95e6-bc466a56af50"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Pennsylvania"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

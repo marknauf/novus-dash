@@ -1,0 +1,2356 @@
+{
+    "count": 2,
+    "pageInformation": {
+      "offset": 0,
+      "size": 10
+    },
+    "items": [
+      {
+        "pureId": 4222471,
+        "externalId": "1000483483",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+        "name": {
+          "firstName": "Mohan",
+          "lastName": "Gopalakrishnan"
+        },
+        "profiled": true,
+        "scopusHIndex": 14,
+        "fte": 0,
+        "info": {
+          "createdBy": "root",
+          "createdDate": "2015-05-04T16:43:18.710+0000",
+          "modifiedBy": "sync_user",
+          "modifiedDate": "2019-11-01T18:53:00.130+0000",
+          "portalUrl": "https://asu.pure.elsevier.com/en/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+          "prettyURLIdentifiers": [
+            "mohan-gopalakrishnan"
+          ]
+        },
+        "visibility": {
+          "key": "FREE",
+          "value": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "Public - No restriction"
+              }
+            ]
+          }
+        },
+        "titles": [
+          {
+            "pureId": 70050399,
+            "externalId": "generic_1000483483",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Chair  & Assoc Professor"
+                }
+              ]
+            },
+            "type": {
+              "pureId": 3434234,
+              "uri": "/dk/atira/pure/person/titles/generic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Title"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ids": [
+          {
+            "pureId": 61791650,
+            "value": {
+              "formatted": false,
+              "value": "7005123327"
+            },
+            "type": {
+              "pureId": 3434256,
+              "uri": "/dk/atira/pure/person/personsources/scopusauthor",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Scopus Author ID"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "profilePhotos": [
+          {
+            "pureId": 96519074,
+            "externalId": "portrait1000483483",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "url": "https://asu.pure.elsevier.com/ws/files/96519074/mohan%3Fsize=medium",
+            "filename": "mohan?size=medium",
+            "mimetype": "image/png",
+            "size": 128668,
+            "type": {
+              "pureId": 3434269,
+              "uri": "/dk/atira/pure/person/personfiles/portrait",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Portrait"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "staffOrganisationAssociations": [
+          {
+            "pureId": 50748844,
+            "externalId": "autoid:1000483483-0102008-Associate Professor-academic-2015-05-04",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2015-05-04T12:00:00.000+0000",
+              "endDate": "2017-12-21T18:21:38.163+0000"
+            },
+            "isPrimaryAssociation": false,
+            "employmentType": {
+              "pureId": 4754,
+              "uri": "/dk/atira/pure/person/employmenttypes/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "organisationalUnit": {
+              "uuid": "c8353797-38ec-4f71-8753-ed72a4a2cc12",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/c8353797-38ec-4f71-8753-ed72a4a2cc12"
+              },
+              "externalId": "B1603",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Supply Chain Management"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            },
+            "emails": [
+              {
+                "pureId": 50748845,
+                "externalId": "synchronisedPerson",
+                "externalIdSource": "synchronisedUnifiedPerson",
+                "value": {
+                  "formatted": false,
+                  "value": "Mohan.Gopalakrishnan@thunderbird.asu.edu"
+                },
+                "type": {
+                  "pureId": 3434321,
+                  "uri": "/dk/atira/pure/person/personemailtype/email",
+                  "term": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "Email"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 70050394,
+            "externalId": "1000483483_01020",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2017-12-21T12:00:00.000+0000",
+              "endDate": "2018-02-23T22:58:22.665+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "ef1bd5bb-553a-4e83-bdc9-92b7184583db",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/ef1bd5bb-553a-4e83-bdc9-92b7184583db"
+              },
+              "externalId": "B16",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Business, W. P. Carey School of (WPC)"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 70050395,
+            "externalId": "1000483483_0102008",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2008-11-01T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:02.154+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "c8353797-38ec-4f71-8753-ed72a4a2cc12",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/c8353797-38ec-4f71-8753-ed72a4a2cc12"
+              },
+              "externalId": "B1603",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Supply Chain Management"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 70050396,
+            "externalId": "1000483483_0102006",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2003-04-15T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:02.154+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "9bc0ec36-fdf7-4e6a-be2f-7d5972c323ec",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/9bc0ec36-fdf7-4e6a-be2f-7d5972c323ec"
+              },
+              "externalId": "B1606",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Management and Entreprenuership"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 70050397,
+            "externalId": "1000483483_0102050",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2017-08-31T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:02.154+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "431eabb7-be6b-4108-a708-43904935ccde",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/431eabb7-be6b-4108-a708-43904935ccde"
+              },
+              "externalId": "B1609",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: L. William Seidman Research Institute"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002794,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/centers",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Centers"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 71549381,
+            "externalId": "1000483483_0102000",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "1999-05-15T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:02.154+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "ef1bd5bb-553a-4e83-bdc9-92b7184583db",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/ef1bd5bb-553a-4e83-bdc9-92b7184583db"
+              },
+              "externalId": "B16",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Business, W. P. Carey School of (WPC)"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 81157398,
+            "externalId": "1000483483_00000",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2018-10-25T12:00:00.000+0000",
+              "endDate": "2018-10-26T02:36:52.098+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "1557de9d-5962-4988-9aab-2777c887cad5",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/1557de9d-5962-4988-9aab-2777c887cad5"
+              },
+              "externalId": "ASU",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Arizona State University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "NA"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 96503365,
+            "externalId": "1000483483_B1609",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "1999-05-15T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "431eabb7-be6b-4108-a708-43904935ccde",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/431eabb7-be6b-4108-a708-43904935ccde"
+              },
+              "externalId": "B1609",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: L. William Seidman Research Institute"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002794,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/centers",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Centers"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Chair & Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 96503366,
+            "externalId": "1000483483_B1603",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "1999-05-15T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": true,
+            "organisationalUnit": {
+              "uuid": "c8353797-38ec-4f71-8753-ed72a4a2cc12",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/c8353797-38ec-4f71-8753-ed72a4a2cc12"
+              },
+              "externalId": "B1603",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Supply Chain Management"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Chair & Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 112520522,
+            "externalId": "1000483483_ASU",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/8313f5bf-5b9d-4fa2-a3a7-94af3587e3c7"
+              },
+              "externalId": "1000483483",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Mohan Gopalakrishnan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2019-09-17T12:00:00.000+0000",
+              "endDate": "2019-11-01T18:52:59.470+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "1557de9d-5962-4988-9aab-2777c887cad5",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/1557de9d-5962-4988-9aab-2777c887cad5"
+              },
+              "externalId": "ASU",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Arizona State University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "NA"
+                }
+              ]
+            }
+          }
+        ],
+        "educations": [
+          {
+            "pureId": 5307244,
+            "externalId": "Education_3023",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1992
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "PHD"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5307245,
+                "externalOrganisationalUnit": {
+                  "uuid": "2db7cd01-3b78-4101-a121-44b5508f71b5",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/2db7cd01-3b78-4101-a121-44b5508f71b5"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Alabama"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 5307240,
+            "externalId": "Education_3022",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1987
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "MS"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5307241,
+                "externalOrganisationalUnit": {
+                  "uuid": "2db7cd01-3b78-4101-a121-44b5508f71b5",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/2db7cd01-3b78-4101-a121-44b5508f71b5"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Alabama"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 5307236,
+            "externalId": "Education_3021",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1983
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "BS"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5307237,
+                "externalOrganisationalUnit": {
+                  "uuid": "2db7cd01-3b78-4101-a121-44b5508f71b5",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/2db7cd01-3b78-4101-a121-44b5508f71b5"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Alabama"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pureId": 4226971,
+        "externalId": "1000541929",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+        "name": {
+          "firstName": "Srimathy",
+          "lastName": "Mohan"
+        },
+        "profiled": true,
+        "scopusHIndex": 8,
+        "fte": 0,
+        "info": {
+          "createdBy": "root",
+          "createdDate": "2015-05-04T16:44:12.289+0000",
+          "modifiedBy": "sync_user",
+          "modifiedDate": "2019-11-01T18:53:17.075+0000",
+          "portalUrl": "https://asu.pure.elsevier.com/en/persons/294244cb-223c-4a7c-97e3-d861a75e35c6",
+          "prettyURLIdentifiers": [
+            "srimathy-mohan"
+          ]
+        },
+        "visibility": {
+          "key": "FREE",
+          "value": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "Public - No restriction"
+              }
+            ]
+          }
+        },
+        "titles": [
+          {
+            "pureId": 70056216,
+            "externalId": "generic_1000541929",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "value": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Assoc Professor"
+                }
+              ]
+            },
+            "type": {
+              "pureId": 3434234,
+              "uri": "/dk/atira/pure/person/titles/generic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Title"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ids": [
+          {
+            "pureId": 61795422,
+            "value": {
+              "formatted": false,
+              "value": "7202613573"
+            },
+            "type": {
+              "pureId": 3434256,
+              "uri": "/dk/atira/pure/person/personsources/scopusauthor",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Scopus Author ID"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "profilePhotos": [
+          {
+            "pureId": 96519412,
+            "externalId": "portrait1000541929",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "url": "https://asu.pure.elsevier.com/ws/files/96519412/srimo%3Fsize=medium",
+            "filename": "srimo?size=medium",
+            "mimetype": "image/png",
+            "size": 103936,
+            "type": {
+              "pureId": 3434269,
+              "uri": "/dk/atira/pure/person/personfiles/portrait",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Portrait"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "staffOrganisationAssociations": [
+          {
+            "pureId": 50749763,
+            "externalId": "autoid:1000541929-0102008-Associate Professor-academic-2015-05-04",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2015-05-04T12:00:00.000+0000",
+              "endDate": "2017-12-21T18:25:47.615+0000"
+            },
+            "isPrimaryAssociation": false,
+            "employmentType": {
+              "pureId": 4754,
+              "uri": "/dk/atira/pure/person/employmenttypes/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "organisationalUnit": {
+              "uuid": "c8353797-38ec-4f71-8753-ed72a4a2cc12",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/c8353797-38ec-4f71-8753-ed72a4a2cc12"
+              },
+              "externalId": "B1603",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Supply Chain Management"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            },
+            "emails": [
+              {
+                "pureId": 50749764,
+                "externalId": "synchronisedPerson",
+                "externalIdSource": "synchronisedUnifiedPerson",
+                "value": {
+                  "formatted": false,
+                  "value": "Srimathy@asu.edu"
+                },
+                "type": {
+                  "pureId": 3434321,
+                  "uri": "/dk/atira/pure/person/personemailtype/email",
+                  "term": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "Email"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 70056211,
+            "externalId": "1000541929_0102006",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2003-08-15T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:43.567+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "9bc0ec36-fdf7-4e6a-be2f-7d5972c323ec",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/9bc0ec36-fdf7-4e6a-be2f-7d5972c323ec"
+              },
+              "externalId": "B1606",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Management and Entreprenuership"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 70056212,
+            "externalId": "1000541929_0102050",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2017-08-31T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:43.567+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "431eabb7-be6b-4108-a708-43904935ccde",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/431eabb7-be6b-4108-a708-43904935ccde"
+              },
+              "externalId": "B1609",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: L. William Seidman Research Institute"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002794,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/centers",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Centers"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 70056213,
+            "externalId": "1000541929_0102008",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2008-11-01T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:43.567+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "c8353797-38ec-4f71-8753-ed72a4a2cc12",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/c8353797-38ec-4f71-8753-ed72a4a2cc12"
+              },
+              "externalId": "B1603",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Supply Chain Management"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 70056214,
+            "externalId": "1000541929_01020",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2017-12-21T12:00:00.000+0000",
+              "endDate": "2018-02-23T23:04:55.860+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "ef1bd5bb-553a-4e83-bdc9-92b7184583db",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/ef1bd5bb-553a-4e83-bdc9-92b7184583db"
+              },
+              "externalId": "B16",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Business, W. P. Carey School of (WPC)"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 71564675,
+            "externalId": "1000541929_0102000",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2003-04-15T12:00:00.000+0000",
+              "endDate": "2019-05-25T04:23:43.567+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "ef1bd5bb-553a-4e83-bdc9-92b7184583db",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/ef1bd5bb-553a-4e83-bdc9-92b7184583db"
+              },
+              "externalId": "B16",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Business, W. P. Carey School of (WPC)"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 81160763,
+            "externalId": "1000541929_00000",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2018-10-25T12:00:00.000+0000",
+              "endDate": "2018-10-26T02:40:07.268+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "1557de9d-5962-4988-9aab-2777c887cad5",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/1557de9d-5962-4988-9aab-2777c887cad5"
+              },
+              "externalId": "ASU",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Arizona State University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "NA"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 96503826,
+            "externalId": "1000541929_B1609",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2003-04-15T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "431eabb7-be6b-4108-a708-43904935ccde",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/431eabb7-be6b-4108-a708-43904935ccde"
+              },
+              "externalId": "B1609",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: L. William Seidman Research Institute"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002794,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/centers",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Centers"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 96503827,
+            "externalId": "1000541929_B1603",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "externallyManaged": true,
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2003-04-15T12:00:00.000+0000"
+            },
+            "isPrimaryAssociation": true,
+            "organisationalUnit": {
+              "uuid": "c8353797-38ec-4f71-8753-ed72a4a2cc12",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/c8353797-38ec-4f71-8753-ed72a4a2cc12"
+              },
+              "externalId": "B1603",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "WPC: Supply Chain Management"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002789,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/departments",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Departments"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Associate Professor"
+                }
+              ]
+            }
+          },
+          {
+            "pureId": 112520858,
+            "externalId": "1000541929_ASU",
+            "externalIdSource": "synchronisedUnifiedPerson",
+            "person": {
+              "uuid": "294244cb-223c-4a7c-97e3-d861a75e35c6",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/persons/294244cb-223c-4a7c-97e3-d861a75e35c6"
+              },
+              "externalId": "1000541929",
+              "externalIdSource": "synchronisedUnifiedPerson",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "value": "Srimathy Mohan"
+                  }
+                ]
+              }
+            },
+            "period": {
+              "startDate": "2019-09-17T12:00:00.000+0000",
+              "endDate": "2019-11-01T18:53:16.417+0000"
+            },
+            "isPrimaryAssociation": false,
+            "organisationalUnit": {
+              "uuid": "1557de9d-5962-4988-9aab-2777c887cad5",
+              "link": {
+                "ref": "content",
+                "href": "https://asu.pure.elsevier.com/ws/api/516/organisational-units/1557de9d-5962-4988-9aab-2777c887cad5"
+              },
+              "externalId": "ASU",
+              "externalIdSource": "synchronisedUnifiedOrganisation",
+              "externallyManaged": true,
+              "name": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Arizona State University"
+                  }
+                ]
+              },
+              "type": {
+                "pureId": 32002784,
+                "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/organizational_groupings",
+                "term": {
+                  "formatted": false,
+                  "text": [
+                    {
+                      "locale": "en_US",
+                      "value": "Organizational Groupings"
+                    }
+                  ]
+                }
+              }
+            },
+            "staffType": {
+              "pureId": 3434337,
+              "uri": "/dk/atira/pure/person/personstafftype/academic",
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "Academic"
+                  }
+                ]
+              }
+            },
+            "jobDescription": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "NA"
+                }
+              ]
+            }
+          }
+        ],
+        "educations": [
+          {
+            "pureId": 5310044,
+            "externalId": "Education_3712",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1998
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "PHD"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5310045,
+                "externalOrganisationalUnit": {
+                  "uuid": "7283d7d1-bb06-4277-bf4e-a64a3105ed5d",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/7283d7d1-bb06-4277-bf4e-a64a3105ed5d"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Montreal"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 5310032,
+            "externalId": "Education_3710",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1993
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "MS"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5310033,
+                "externalOrganisationalUnit": {
+                  "uuid": "1002c41b-a0e1-4b78-92c0-5bfe66302f0a",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/1002c41b-a0e1-4b78-92c0-5bfe66302f0a"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "Massachusetts Institute of Technology"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 5310036,
+            "externalId": "Education_3711",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1991
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "MS"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5310037,
+                "externalOrganisationalUnit": {
+                  "uuid": "2db7cd01-3b78-4101-a121-44b5508f71b5",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/2db7cd01-3b78-4101-a121-44b5508f71b5"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Alabama"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "pureId": 5310028,
+            "externalId": "Education_3709",
+            "externalIdSource": "education",
+            "period": {
+              "endDate": {
+                "year": 1989
+              }
+            },
+            "qualification": {
+              "term": {
+                "formatted": false,
+                "text": [
+                  {
+                    "locale": "en_US",
+                    "value": "BS"
+                  }
+                ]
+              }
+            },
+            "organisationalUnits": [
+              {
+                "pureId": 5310029,
+                "externalOrganisationalUnit": {
+                  "uuid": "2db7cd01-3b78-4101-a121-44b5508f71b5",
+                  "link": {
+                    "ref": "content",
+                    "href": "https://asu.pure.elsevier.com/ws/api/516/external-organisations/2db7cd01-3b78-4101-a121-44b5508f71b5"
+                  },
+                  "externalId": "N/A",
+                  "externalIdSource": "education",
+                  "name": {
+                    "formatted": false,
+                    "text": [
+                      {
+                        "locale": "en_US",
+                        "value": "University of Alabama"
+                      }
+                    ]
+                  },
+                  "type": {
+                    "pureId": 4847,
+                    "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/unknown",
+                    "term": {
+                      "formatted": false,
+                      "text": [
+                        {
+                          "locale": "en_US",
+                          "value": "Unknown"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
