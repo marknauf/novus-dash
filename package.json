@@ -4,7 +4,7 @@
   "private": true,
   "description": "Novus",
   "author": "Mark Naufel",
-  "homepage": "https://marknauf.github.io/novus-dash",
+  "homepage": "http://marknauf.github.io/novus-dash",
   "repository": {
     "type": "git",
     "url": "https://github.com/marknauf/novus-dash"
@@ -42,7 +42,6 @@
     "faker": "4.1.0",
     "file-loader": "2.0.0",
     "fs-extra": "7.0.1",
-    "gh-pages": "^2.1.1",
     "globalize": "0.1.1",
     "google-map-react": "1.1.2",
     "hamburgers": "^1.1.3",
@@ -109,6 +108,7 @@
   "devDependencies": {
     "animate-sass": "0.8.2",
     "css-loader": "1.0.1",
+    "gh-pages": "^2.1.1",
     "node-sass": "4.10.0",
     "sass-loader": "6.0.6",
     "webpack-dev-server": "3.0.0"
