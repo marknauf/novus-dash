@@ -4,7 +4,7 @@
   "private": true,
   "description": "Novus",
   "author": "Mark Naufel",
-  "homepage": "https://marknauf.github.io/novus-dash",
+  "homepage": "https://marknauf.github.io/novus-dash/",
   "repository": {
     "type": "git",
     "url": "https://github.com/marknauf/novus-dash"
@@ -117,7 +117,7 @@
     "start": "cross-env NODE_PATH=./src node scripts/start.js",
     "build": "cross-env NODE_PATH=./src node scripts/build.js",
     "test": "cross-env NODE_PATH=./src node scripts/test.js --env=jsdom",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "jest": {
