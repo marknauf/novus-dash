@@ -4,10 +4,10 @@
   "private": true,
   "description": "Novus",
   "author": "Mark Naufel",
-  "homepage": "https://marknauf.github.io/novus-dash/",
+  "homepage" : "http://marknauf.github.io/novus-dash",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marknauf/novus-dash"
+    "url": "git+https://github.com/marknauf/novus-dash"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.15",
@@ -117,7 +117,7 @@
     "start": "cross-env NODE_PATH=./src node scripts/start.js",
     "build": "cross-env NODE_PATH=./src node scripts/build.js",
     "test": "cross-env NODE_PATH=./src node scripts/test.js --env=jsdom",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "jest": {
