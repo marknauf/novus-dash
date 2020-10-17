@@ -774,17 +774,17 @@ export default class AnalyticsDashboard1 extends Component {
                     transitionLeave={false}>
                     <div>
                         <PageTitle
-                            heading="WAYFAIR"
-                            subheading={company[0].address.location}
+                            heading="3D Printing"
+                            subheading="Packaging and Product Production: Circular practices for packaging manufacturing"
                             icon="pe-7s-home icon-gradient bg-mean-fruit"
                         />
                         <Row>
                             <Col md="12" lg = "12">
                             <Card className="main-card mb-3">
                                 <CardBody>
-                                    <CardTitle>Company Description</CardTitle>
+                                    <CardTitle>Innovation Description</CardTitle>
 
-                                        <p>{company[0].description}</p>
+                                        <p>3-D printing is a maanufacturing technique, which allows manufacturers to control the amount of material used for production of plastic packaging</p>
                                         
 
                                 </CardBody>
@@ -793,39 +793,52 @@ export default class AnalyticsDashboard1 extends Component {
                         </Row>
 
                         <Row>
-                            <Col md="4">
+                            <Col md="3">
                                 <div className="card mb-3 widget-chart">
                                     <div className="widget-numbers">
-                                    {JSON.stringify(company[0].employees)}
+                                    Met L Flow
+                                    {/* 1000 */}
                                     </div>
                                     <div className="widget-subheading">
-                                        Employees
+                                        Example
                                     </div>
                                 </div>
                             </Col>
-                            <Col md="4">
+                            <Col md="3">
                                 <div className="card mb-3 widget-chart">
                                     <div className="widget-numbers">
-                                    {JSON.stringify(company[0].gscore)}
+                                    Diffusion
                                     </div>
                                     <div className="widget-subheading">
-                                        Gscore
+                                        State
                                     </div>
                                 </div>
                             </Col>
-                            <Col md="4">
+                            <Col md="3">
                                 <div className="card mb-3 widget-chart">
                                     <div className="widget-numbers">
-                                    {/* {JSON.stringify(company[0].revenue)} */}
-                                    3.38B
+                                      Emerging
                                     </div>
                                     <div className="widget-subheading">
-                                        Revenue
+                                        State of Development
                                     </div>
                                 </div>
                             </Col>
+                            <Col md="3">
+                                <div className="card mb-3 widget-chart">
+                                    <div className="widget-numbers">
+                                      High
+                                    </div>
+                                    <div className="widget-subheading">
+                                        Effect on Circularity
+                                    </div>
+                                </div>
+                            </Col>
+                           
 
                             </Row>
+
+                          
 
 
                         <Row>
@@ -975,7 +988,7 @@ export default class AnalyticsDashboard1 extends Component {
                     
 
 
-                        <Row>
+                        {/* <Row>
                             <Col md="12" lg="12">
                                 <Card className="mb-3">
                                     <CardHeader className="card-header-tab">
@@ -999,7 +1012,7 @@ export default class AnalyticsDashboard1 extends Component {
                                 </Card>
                                </Col>
                             
-                        </Row>
+                        </Row> */}
 
                                           
 
@@ -1009,7 +1022,7 @@ export default class AnalyticsDashboard1 extends Component {
                                     <CardHeader className="card-header-tab">
                                         <div className="card-header-title">
                                             <i className="header-icon pe-7s-global icon-gradient bg-tempting-azure"> </i>
-                                            Company Locations 
+                                            Geospacial Analysis
                                         </div>
                                     </CardHeader>
 
@@ -1021,12 +1034,90 @@ export default class AnalyticsDashboard1 extends Component {
                     </Row>
 
 
+                    <Row>
+                    <Col md="12" lg="12">
+                                <Card className="mb-3">
+                                    <CardHeader className="card-header-tab">
+                                        <div className="card-header-title">
+                                            {/* <i className="header-icon pe-7s-global icon-gradient bg-tempting-azure"> </i> */}
+                                            Impacts
+                                        </div>
+                                    </CardHeader>
+
+                                    <CardBody>
+                
+                                    <Row>
+                            <Col md="12">
+                                <div className="card mb-3 widget-chart">
+                                    <div className="widget-numbers">
+                                    N/A
+                                    {/* 1000 */}
+                                    </div>
+                                    <div className="widget-subheading">
+                                    GHG Impact
+                                    </div>
+                                </div>
+                            </Col>
+                            </Row>
+
+                            <Row>
+                            <Col md="12">
+                                <div className="card mb-3 widget-chart">
+                                    <div className="widget-numbers">
+                                    N/A
+                                    {/* 1000 */}
+                                    </div>
+                                    <div className="widget-subheading">
+                                    Environmental Impacts 
+                                    </div>
+                                </div>
+                            </Col>
+                            </Row>
+                            
+                            <Row>
+                            <Col md="12">
+                                <div className="card mb-3 widget-chart">
+                                    <div className="widget-numbers">
+                                    N/A
+                                    {/* 1000 */}
+                                    </div>
+                                    <div className="widget-subheading">
+                                    Environmental Impacts 
+                                    </div>
+                                </div>
+                            </Col>
+                            </Row>
+
+                            <Row>
+                            <Col md="12">
+                                <div className="card mb-3 widget-chart">
+                                    <div className="widget-numbers">
+                                    N/A
+                                    {/* 1000 */}
+                                    </div>
+                                    <div className="widget-subheading">
+                                   Social Impacts 
+                                    </div>
+                                </div>
+                            </Col>
+                            </Row>
+                            
+
+
+                    
+
+                    </CardBody>
+                    </Card>
+                    </Col>
+                    </Row>
+
+
 
 
                     <Row>
                             <Col md="12">
                                 <Card className="main-card mb-3">
-                                    <div className="card-header">Relevant ASU Researchers
+                                    <div className="card-header">Relevant Researchers
                                         <div className="btn-actions-pane-right">
                                             <div role="group" className="btn-group-sm btn-group">
                                                 {/* <button className="active btn btn-info">Last Week</button>
@@ -1051,11 +1142,11 @@ export default class AnalyticsDashboard1 extends Component {
                                                 <td>
                                                     <div className="widget-content p-0">
                                                         <div className="widget-content-wrapper">
-                                                            <div className="widget-content-left mr-3">
-                                                                <div className="widget-content-left">
+                                                            {/* <div className="widget-content-left mr-3">
+                                                                  <div className="widget-content-left">
                                                                     <img width={40} className="rounded-circle" src={"https://asu.pure.elsevier.com/ws/files/96520562/amorale9%3Fsize=medium"} alt="Avatar" />
                                                                 </div>
-                                                            </div>
+                                                            </div> */}
                                                             <div className="widget-content-left flex2">
                                                                 <div className="widget-heading">Andrea Morales</div>
                                                                 <div className="widget-subheading opacity-7">Professor</div>
@@ -1076,11 +1167,11 @@ export default class AnalyticsDashboard1 extends Component {
                                                 <td>
                                                     <div className="widget-content p-0">
                                                         <div className="widget-content-wrapper">
-                                                            <div className="widget-content-left mr-3">
+                                                            {/* <div className="widget-content-left mr-3">
                                                                 <div className="widget-content-left">
                                                                     <img width={40} className="rounded-circle" src={"https://asu.pure.elsevier.com/ws/files/96519074/mohan%3Fsize=medium"} alt="Avatar" />
                                                                 </div>
-                                                            </div>
+                                                            </div> */}
                                                             <div className="widget-content-left flex2">
                                                                 <div className="widget-heading">Mohan Gopalakrishnan</div>
                                                                 <div className="widget-subheading opacity-7">Chair & Assoc Professor</div>
@@ -1101,11 +1192,11 @@ export default class AnalyticsDashboard1 extends Component {
                                                 <td>
                                                     <div className="widget-content p-0">
                                                         <div className="widget-content-wrapper">
-                                                            <div className="widget-content-left mr-3">
+                                                            {/* <div className="widget-content-left mr-3">
                                                                 <div className="widget-content-left">
                                                                     <img width={40} className="rounded-circle" src={"https://asu.pure.elsevier.com/ws/files/96519412/srimo%3Fsize=medium"} alt="Avatar" />
                                                                 </div>
-                                                            </div>
+                                                            </div> */}
                                                             <div className="widget-content-left flex2">
                                                                 <div className="widget-heading">Srimathy Mohan</div>
                                                                 <div className="widget-subheading opacity-7">Associate Professor</div>
@@ -1143,8 +1234,8 @@ export default class AnalyticsDashboard1 extends Component {
                                 <Card className="mb-3">
                                     <CardHeader className="card-header-tab">
                                         <div className="card-header-title">
-                                            <i className="header-icon pe-7s-call icon-gradient bg-tempting-azure"> </i>
-                                            Wayfair Contacts 
+                                            {/* <i className="header-icon pe-7s-call icon-gradient bg-tempting-azure"> </i> */}
+                                           References
                                         </div>
                                     </CardHeader>
 

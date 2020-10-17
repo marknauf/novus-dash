@@ -27,7 +27,7 @@ export default class TitleComponent2 extends Component {
         })
     }
 
-    notify22 = () => this.toastId = toast("The Company Has Been Favorited", {
+    notify22 = () => this.toastId = toast("The Innovation Has Been Favorited", {
         transition: Slide,
         closeButton: true,
         autoClose: 5000,

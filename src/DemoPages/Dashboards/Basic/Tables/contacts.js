@@ -1407,10 +1407,9 @@ export default class ContactsTable extends React.Component {
         let table = []
     
         // Outer loop to create parent
-        table.push(<th>Name</th>)
+        table.push(<th>Author</th>)
         table.push(<th>Position</th>)
-        table.push(<th>LinkedIn</th>)
-        table.push(<th>Twitter</th>)
+        table.push(<th>Article Link</th>)
         for (let i = 0; i < 20; i++) {
           let children = []
           if (contacts[0].data[i].social)
@@ -1420,10 +1419,6 @@ export default class ContactsTable extends React.Component {
             if (contacts[0].data[i].social && contacts[0].data[i].social.linkedin)
             {
             children.push(<td>{contacts[0].data[i].social.linkedin.url}</td>)
-            }
-            if (contacts[0].data[i].social && contacts[0].data[i].social.twitter)
-            {
-            children.push(<td>{contacts[0].data[i].social.twitter.url}</td>)
             }
         }
             // children.push(<td>{contacts[0].data[i].social.linkedin.url}</td>)

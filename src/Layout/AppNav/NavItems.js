@@ -1,7 +1,7 @@
 export const MainNav = [
     {
         icon: 'pe-7s-home',
-        label: 'Wayfair',
+        label: '3D-Priniting',
         to: '#/dashboards/basic',
     },
 ];
